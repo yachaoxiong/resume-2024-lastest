@@ -302,8 +302,8 @@
         "Built with React.js",
         "Implemented using Hooks for state management"
       ],
-      "url": "https://your-e-card-url.com",
-      "github": "https://github.com/your-ecards-repo"
+      "url": "https://ecard.vercel.app/",
+      "github": "#"
     },
     {
       "name": "Toodoo",
@@ -313,8 +313,8 @@
         "Built with React.js and Redux.js",
         "Features a fully customizable and dynamic dashboard"
       ],
-      "url": "https://your-toodoo-url.com",
-      "github": "https://github.com/your-toodoo-repo"
+      "url": "https://todos-yachao.vercel.app/",
+      "github": "#"
     },
     {
       "name": "LovingSitter",
