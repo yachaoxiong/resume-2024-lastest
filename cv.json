@@ -204,7 +204,7 @@
       "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "Tailwind CSS",
+      "name": "Tailwind",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "name": "Node.js",
+      "name": "NodeJs",
       "level": "Intermediate",
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
