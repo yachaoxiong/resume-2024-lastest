@@ -1,0 +1,331 @@
+{
+  "basics": {
+    "name": "Eric Xiong",
+    "label": "Software Developer",
+    "image": "/me-avatar.png",
+    "email": "ericxiongyachao@gmail.com",
+    "phone": "7057964276",
+    "url": "https://ericxiong.vercel.app/",
+    "summary": "Full Stack Developer with 5+ years of experience in React.js, Node.js, and web app development. Proven skills in improving application performance and implementing secure payment gateways. Looking to apply my technical expertise in a dynamic team to develop user-friendly solutions.",
+    "theme": "red",
+    "location": {
+      "address": "",
+      "postalCode": "L4E 3M1",
+      "city": "Richmond Hill",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Eric Xiong",
+        "url": "https://www.linkedin.com/in/yachao-xiong-231b94130/"
+      },
+      {
+        "network": "GitHub",
+        "username": "yachaoxiong",
+        "url": "https://github.com/yachaoxiong"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "eCommerce Canada",
+      "position": "Software Developer",
+      "location_type": "Remote",
+      "location": "Canada",
+      "url": "https://ecommercecanada.com/",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "Developed and maintained web applications, focusing on improving performance and automating processes to enhance client efficiency.",
+      "highlights": [
+        "Engineered a Shopify application using Node.js and React.js, automating product data processing, reducing manual effort by 50%.",
+        "Developed web applications utilizing Firebase and Next.js, incorporating serverless cloud functions and a real-time database."
+      ],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Optimized server performance by introducing a task queue system, resolving server crash issues.",
+        "Integrated PayPal as a payment gateway, enabling secure and efficient online transactions."
+      ],
+      "skills": [
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "GitHub",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Firebase",
+        "Supabase",
+        "Git"
+      ]
+    },
+    {
+      "name": "Georgian College",
+      "position": "Research Associate",
+      "location_type": "Hybrid",
+      "location": "Canada",
+      "url": "https://www.georgiancollege.ca/community-alumni/applied-research-and-innovation/",
+      "startDate": "2019-09-01",
+      "endDate": "2022-03-01",
+      "summary": "Worked as a Full Stack Developer, building and maintaining web interfaces and integrating backend services to support various projects.",
+      "highlights": [
+        "Built and designed interfaces for web applications using React.",
+        "Developed and consumed REST endpoints within the Node.js/Express.js framework.",
+        "Wrote comprehensive API documentation for one of the key projects."
+      ],
+      "responsibilities": [
+        "Collaborated with cross-functional teams to develop full-stack web solutions.",
+        "Integrated third-party data stored in Azure Storage into web applications.",
+        "Implemented Two-Factor Authentication to enhance security for web applications."
+      ],
+      "achievements": [
+        "Successfully integrated secure third-party data handling and improved application security with Two-Factor Authentication."
+      ],
+      "skills": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "Azure",
+        "API Development",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "MiGuy Digital Service",
+      "position": "Web Programmer Intern",
+      "location_type": "On-site",
+      "location": "Barrie, Canada",
+      "url": "https://miguy.com/",
+      "startDate": "2018-09-01",
+      "endDate": "2018-12-01",
+      "summary": "Assisted in developing web applications, focusing on UI/UX design and mobile application interfaces.",
+      "highlights": [
+        "Built and designed a car dealer web application from the ground up.",
+        "Designed and implemented user interfaces for mobile applications."
+      ],
+      "responsibilities": [
+        "Collaborated with designers and developers to create responsive and user-friendly web applications.",
+        "Implemented UI/UX designs for mobile apps, ensuring a seamless user experience across devices.",
+        "Contributed to front-end development using HTML, CSS, and JavaScript."
+      ],
+      "achievements": [
+        "Delivered a fully functional car dealer web application that enhanced client engagement and sales."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "UI/UX Design",
+        "Responsive Design",
+        "React.js"
+      ]
+    }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centennial College",
+      "url": "https://www.centennialcollege.ca/",
+      "area": "Mobile Application Development",
+      "studyType": "Postgraduate Certificate",
+      "startDate": "2022-09-01",
+      "endDate": "2023-04-01",
+      "score": "3.9",
+      "courses": [
+        "Advanced Software Development",
+        "Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "Georgian College",
+      "url": "https://www.georgiancollege.ca/",
+      "area": "Computer Programmer Analyst",
+      "studyType": "Advanced Diploma",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-01",
+      "score": "3.7",
+      "courses": ["Networking Fundamentals", "Database Management Systems"]
+    },
+    {
+      "institution": "Jilin Normal University",
+      "url": "https://www.jlnu.edu.cn/",
+      "area": "Interior Design",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2012-08-01",
+      "endDate": "2016-07-01",
+      "score": "3.8",
+      "courses": ["Introduction to Interior Design", "Design Principles"]
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": ["Design", "UI"]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React.js",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "Database", "Authentication"]
+    },
+    {
+      "name": "Shopify",
+      "level": "Intermediate",
+      "keywords": ["E-commerce", "Web Development", "Platform"]
+    },
+    {
+      "name": "Supabase",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "Database", "Authentication"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Card",
+      "isActive": true,
+      "description": "The E-card Generator can generate an online birthday or Christmas card with cool animation.",
+      "highlights": [
+        "Built with React.js",
+        "Implemented using Hooks for state management"
+      ],
+      "url": "https://your-e-card-url.com",
+      "github": "https://github.com/your-ecards-repo"
+    },
+    {
+      "name": "Toodoo",
+      "isActive": true,
+      "description": "TOODOO is a Task Management System with a resizable and draggable dashboard.",
+      "highlights": [
+        "Built with React.js and Redux.js",
+        "Features a fully customizable and dynamic dashboard"
+      ],
+      "url": "https://your-toodoo-url.com",
+      "github": "https://github.com/your-toodoo-repo"
+    },
+    {
+      "name": "LovingSitter",
+      "isActive": true,
+      "description": "LovingSitter is a beautiful, easy-to-use platform that dog owners can easily find a dog sitter when they need it most.",
+      "highlights": [
+        "Built with Node.js, React.js, TypeScript, and MongoDB",
+        "Supports user authentication and secure payments"
+      ],
+      "url": "https://your-lovingsitter-url.com",
+      "github": "https://github.com/your-lovingsitter-repo"
+    }
+  ]
+}
