@@ -37,34 +37,38 @@
       "url": "https://ecommercecanada.com/",
       "startDate": "2022-03-01",
       "endDate": "",
-      "summary": "Developed and maintained web applications, focusing on improving performance and automating processes to enhance client efficiency.",
+      "summary": "Developed and maintained Shopify applications and web platforms, optimizing e-commerce performance through automated solutions.",
       "highlights": [
-        "Engineered a Shopify application using Node.js and React.js, automating product data processing, reducing manual effort by 50%.",
-        "Developed web applications utilizing Firebase and Next.js, incorporating serverless cloud functions and a real-time database."
+        "Engineered Shopify applications using Node.js and React.js, automating product data processing and reducing manual effort by 50%.",
+        "Developed custom Shopify themes with Liquid template language and Tailwind CSS.",
+        "Implemented Shopify app integrations using REST/GraphQL APIs and webhooks."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Collaborated on full-stack development of Shopify applications using modern JavaScript frameworks.",
+        "Optimized Shopify storefront performance through code refactoring and lazy loading techniques.",
+        "Integrated Shopify APIs with backend services using Node.js and Firebase cloud functions."
       ],
       "achievements": [
-        "Optimized server performance by introducing a task queue system, resolving server crash issues.",
-        "Integrated PayPal as a payment gateway, enabling secure and efficient online transactions."
+        "Optimized server performance for Shopify apps by implementing task queue systems.",
+        "Enhanced payment processing by integrating Shopify Payments with third-party gateways.",
+        "Reduced theme load time by 35% through Shopify Liquid template optimizations."
       ],
       "skills": [
         "React.js",
         "Next.js",
-        "Tailwind CSS",
-        "GitHub",
-        "JavaScript",
-        "HTML",
-        "CSS",
         "Node.js",
         "Firebase",
-        "Supabase",
-        "Git"
+        "Shopify Development",
+        "Liquid",
+        "Shopify APIs",
+        "Tailwind CSS",
+        "Git",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
       ]
     },
+
     {
       "name": "Georgian College",
       "position": "Research Associate",
