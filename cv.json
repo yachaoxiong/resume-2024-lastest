@@ -6,7 +6,7 @@
     "email": "ericxiongyachao@gmail.com",
     "phone": "7057964276",
     "url": "https://ericxiong.vercel.app/",
-    "summary": "Full Stack Developer with 5+ years of experience in React.js, Node.js, and web app development. Proven skills in improving application performance and implementing secure payment gateways. Looking to apply my technical expertise in a dynamic team to develop user-friendly solutions.",
+    "summary": "Full Stack Developer experienced in React.js, Node.js, and web application development. Strong at improving application performance and implementing secure payment gateways. Seeking to contribute technical expertise within a dynamic team to build user-friendly solutions.",
     "theme": "red",
     "location": {
       "address": "",
@@ -30,13 +30,50 @@
   },
   "work": [
     {
+      "name": "Freelance",
+      "position": "Freelance Web Developer & Designer (Shopify & Wix)",
+      "location_type": "Remote",
+      "location": "Canada",
+      "url": "",
+      "startDate": "2025-07-01",
+      "endDate": "",
+      "summary": "Provided freelance web development services for small businesses and startups, focusing on Shopify and Wix website design, customization, and performance optimization.",
+      "highlights": [
+        "Designed and customized Shopify and Wix websites based on client business needs.",
+        "Built custom landing pages and marketing pages to improve conversion rates.",
+        "Handled end-to-end delivery from requirements gathering to deployment."
+      ],
+      "responsibilities": [
+        "Developed and customized Shopify themes using Liquid, HTML, CSS, and JavaScript.",
+        "Created Wix pages using Wix Editor and Velo for custom functionality.",
+        "Optimized website performance, SEO structure, and mobile responsiveness.",
+        "Communicated directly with clients to refine requirements and provide technical recommendations."
+      ],
+      "achievements": [
+        "Successfully delivered multiple client projects with high satisfaction and repeat business.",
+        "Improved page load speed and usability for e-commerce and service-based websites.",
+        "Helped clients launch or revamp online stores within tight timelines."
+      ],
+      "skills": [
+        "Shopify Development",
+        "Wix",
+        "Liquid",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Responsive Design",
+        "SEO Basics",
+        "Client Communication"
+      ]
+    },
+    {
       "name": "eCommerce Canada",
       "position": "Software Developer",
       "location_type": "Remote",
       "location": "Canada",
       "url": "https://ecommercecanada.com/",
       "startDate": "2022-03-01",
-      "endDate": "",
+      "endDate": "2025-07-19",
       "summary": "Developed and maintained Shopify applications and web platforms, optimizing e-commerce performance through automated solutions.",
       "highlights": [
         "Engineered Shopify applications using Node.js and React.js, automating product data processing and reducing manual effort by 50%.",
